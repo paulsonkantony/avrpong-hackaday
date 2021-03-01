@@ -1,6 +1,12 @@
 # avrpong-hackaday
 Final project of the AVR Architecture Course - HackadayU
 
+### Project Requirements
+
+Create a PONG game. The game has three elements: user paddle, ball, and the computer's paddle. The ball should bounce when it hits the paddle. If the ball misses the paddle, the game is over. The user's paddle is controlled by two pushbuttons, and the computer's paddle is controlled automatically by your code.
+
+The game has to be written entirely in AVR assembly, without relying on any of Arduino's built-in library functions.
+
 ### source
 Contains the .ino and assembly file used in the project
 
