@@ -1,7 +1,7 @@
 # avrpong-hackaday
 Final project of the AVR Architecture Course - HackadayU
 
-Check out project page at [Hackaday](https://hackaday.io/project/177973-avr-pong-in-assembly).
+Check out project page at [Hackaday](https://hackaday.io/project/177973-pong-in-avr).
 
 ### Project Requirements
 
